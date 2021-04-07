@@ -1,0 +1,283 @@
+{
+    "death_knight": {
+        "blood": {
+            "player_handle": "Panthea",
+            "character_realm": "tarren-mill",
+            "character_name": "panthea",
+            "region": "EU",
+            "guild": "Catalyst"
+        },
+        "frost": {
+            "player_handle": "Bicepspump",
+            "character_realm": "kazzak",
+            "character_name": "bicepspump",
+            "region": "EU",
+            "guild": "Pixelbased Lifeforms"
+        },
+        "unholy": {
+            "player_handle": "Bicepspump",
+            "character_realm": "kazzak",
+            "character_name": "bicepspump",
+            "region": "EU",
+            "guild": "Pixelbased Lifeforms"
+        }
+    },
+    "demon_hunter": {
+        "vengeance": {
+            "player_handle": "Kib",
+            "character_realm": "aegwynn",
+            "character_name": "kib",
+            "region": "EU",
+            "guild": "Wiped am Trash"
+        },
+        "havoc": {
+            "player_handle": "Itamae",
+            "character_realm": "tichondrius",
+            "character_name": "itamae",
+            "region": "US",
+            "guild": "Dysphoria"
+        }
+    },
+    "druid": {
+        "balance": {
+            "player_handle": "Tettles",
+            "character_realm": "Zul'jin",
+            "character_name": "ttvtettles",
+            "region": "US",
+            "guild": "Might"
+        },
+        "feral": {
+            "player_handle": "Guiltyas",
+            "character_realm": "turalyon",
+            "character_name": "Guiltyas",
+            "region": "EU",
+            "guild": "Pure"
+        },
+        "guardian": {
+            "player_handle": "Pumps",
+            "character_realm": "frostmourne",
+            "character_name": "pumps",
+            "region": "US",
+            "guild": "Honestly"
+        },
+        "restoration": {
+            "player_handle": "Jaydaa",
+            "character_realm": "Zul'jin",
+            "character_name": "jaydaa",
+            "region": "US",
+            "guild": "Might"
+        }
+    },
+    "hunter": {
+        "beast_mastery": {
+            "player_handle": "Impakt",
+            "character_realm": "illidan",
+            "character_name": "impakth",
+            "region": "US",
+            "guild": "BDGG"
+        },
+        "marksmanship": {
+            "player_handle": "Moofz",
+            "character_realm": "Illidan",
+            "character_name": "moofzy",
+            "region": "US",
+            "guild": "Intern Made This Boss"
+        },
+        "survival": {
+            "player_handle": "Liminara",
+            "character_realm": "area-52",
+            "character_name": "None",
+            "region": "US",
+            "guild": "Strawberry Puppy Kisses"
+        }
+    },
+    "mage": {
+        "arcane": {
+            "player_handle": "Malon",
+            "character_realm": "stormscale",
+            "character_name": "malonn",
+            "region": "EU",
+            "guild": "Emerald Omen",
+            "notes": "Appears to raid as fire"
+        },
+        "fire": {
+            "player_handle": "Preheat",
+            "character_realm": "illidan",
+            "character_name": "preheat",
+            "region": "US",
+            "guild": "Intern Made This Boss"
+        },
+        "frost": {
+            "player_handle": "Malon",
+            "character_realm": "stormscale",
+            "character_name": "malonn",
+            "region": "EU",
+            "guild": "Emerald Omen",
+            "notes": "Appears to raid as fire; 'About Author' section says Preheat wrote the article but the by-line says Malon"
+        }
+    },
+    "monk": {
+        "brewmaster": {
+            "player_handle": "Llarold",
+            "character_realm": "illidan",
+            "character_name": "llarold",
+            "region": "US",
+            "guild": "Intern Made This Boss"
+        },
+        "mistweaver": {
+            "player_handle": "Anomoly",
+            "character_realm": "malganis",
+            "character_name": "None",
+            "region": "US",
+            "guild": "Decidedly Uncouth",
+            "notes": "Doesn't appear on the armory of raiderio"
+        },
+        "windwalker": {
+            "player_handle": "Babylonius",
+            "character_realm": "turalyon",
+            "character_name": "babylonius",
+            "region": "US",
+            "guild": "Occasional Excellent"
+        }
+    },
+    "paladin": {
+        "holy": {
+            "player_handle": "Pelinal",
+            "character_realm": "illidan",
+            "character_name": "pelinal",
+            "region": "US",
+            "guild": "Melee Mechanics"
+        },
+        "protection": {
+            "player_handle": "Lincoln",
+            "character_realm": "",
+            "character_name": "None",
+            "region": "",
+            "guild": ""
+        },
+        "retribution": {
+            "player_handle": "Bolas",
+            "character_realm": "frostmourne",
+            "character_name": "bolas",
+            "region": "US",
+            "guild": "Diversity Quota"
+        }
+    },
+    "priest": {
+        "discipline": {
+            "player_handle": "Automaticjak",
+            "character_realm": "illidan",
+            "character_name": "jakbcastin",
+            "region": "US",
+            "guild": "Lazarus Imperative"
+        },
+        "holy": {
+            "player_handle": "Automaticjak",
+            "character_realm": "illidan",
+            "character_name": "jakbcastin",
+            "region": "US",
+            "guild": "Lazarus Imperative"
+        },
+        "shadow": {
+            "player_handle": "Ellipsis",
+            "character_realm": "tarren-mill",
+            "character_name": "Ellipsìs",
+            "region": "EU",
+            "guild": "The Misty Moon Massive"
+        }
+    },
+    "rogue": {
+        "assassination": {
+            "player_handle": "Mystler",
+            "character_realm": "eredar",
+            "character_name": "alarea",
+            "region": "EU",
+            "guild": "Salty"
+        },
+        "outlaw": {
+            "player_handle": "Mystler",
+            "character_realm": "eredar",
+            "character_name": "alarea",
+            "region": "EU",
+            "guild": "Salty"
+        },
+        "subtlety": {
+            "player_handle": "Mystler",
+            "character_realm": "eredar",
+            "character_name": "alarea",
+            "region": "EU",
+            "guild": "Salty"
+        }
+    },
+    "shaman": {
+        "elemental": {
+            "player_handle": "Gistwiki",
+            "character_realm": "kelthuzad",
+            "character_name": "gistwiki",
+            "region": "US",
+            "guild": "Indestructible"
+        },
+        "enhancement": {
+            "player_handle": "Wordup",
+            "character_realm": "sunstrider",
+            "character_name": "werdup",
+            "region": "EU",
+            "guild": "Echoes"
+        },
+        "restoration": {
+            "player_handle": "Niseko",
+            "character_realm": "stormscale",
+            "character_name": "niseko",
+            "region": "EU",
+            "guild": "CyaThursday"
+        }
+    },
+    "warlock": {
+        "affliction": {
+            "player_handle": "Xyronic",
+            "character_realm": "illidan",
+            "character_name": "xybeaned",
+            "region": "US",
+            "guild": "Complexity Limit"
+        },
+        "demonology": {
+            "player_handle": "Notwarlock",
+            "character_realm": "stormreaver",
+            "character_name": "nota",
+            "region": "EU",
+            "guild": "hyvät ucot"
+        },
+        "destruction": {
+            "player_handle": "Loozy",
+            "character_realm": "kazzak",
+            "character_name": "loozy",
+            "region": "EU",
+            "guild": "FatSharkYes"
+        }
+    },
+    "warrior": {
+        "arms": {
+            "player_handle": "Archimtiros",
+            "character_realm": "sargeras",
+            "character_name": "archimtiros",
+            "region": "US",
+            "guild": "Business Class"
+        },
+        "fury": {
+            "player_handle": "Archimtiros",
+            "character_realm": "sargeras",
+            "character_name": "archimtiros",
+            "region": "US",
+            "guild": "Business Class"
+        },
+        "protection": {
+            "player_handle": "Llarold",
+            "character_realm": "illidan",
+            "character_name": "buttfoot",
+            "region": "US",
+            "guild": "Intern Made This Boss",
+            "notes": "Same of Brewmaster tank which seems to be his main",
+            "special": True
+        }
+    }
+}

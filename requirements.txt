@@ -1,0 +1,6 @@
+pytest==6.2.2
+requests==2.25.1
+matplotlib==3.3.4
+rich==9.13.0
+Pillow==8.2.0
+tqdm==4.6.0

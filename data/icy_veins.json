@@ -1,0 +1,296 @@
+{
+    "death_knight": {
+        "blood": {
+            "player_handle": "Mandl",
+            "character_realm": "defias-brotherhood",
+            "character_name": "mandl",
+            "region": "EU",
+            "guild": "The Logical Cube",
+            "notes": "Cowrote guide with Panthea, however this character does not appear in IO."
+        },
+        "frost": {
+            "player_handle": "Abyssalwave",
+            "character_realm": "malganis",
+            "character_name": "abythal",
+            "region": "US",
+            "guild": "Semantics"
+        },
+        "unholy": {
+            "player_handle": "Abyssalwave",
+            "character_realm": "malganis",
+            "character_name": "abythal",
+            "region": "US",
+            "guild": "Semantics"
+        }
+    },
+    "demon_hunter": {
+        "vengeance": {
+            "player_handle": "Wordup",
+            "character_realm": "sunstrider",
+            "character_name": "jumpup",
+            "region": "EU",
+            "guild": "Echoes",
+            "notes": "Alt of Werdup, very firmly an alt.",
+            "special": true
+        },
+        "havoc": {
+            "player_handle": "Excidias",
+            "character_realm": "zuljin",
+            "character_name": "excidias",
+            "region": "US",
+            "guild": "Poutine"
+        }
+    },
+    "druid": {
+        "balance": {
+            "player_handle": "Borabank",
+            "character_realm": "Illidan",
+            "character_name": "borabank",
+            "region": "US",
+            "guild": "Ookers"
+        },
+        "feral": {
+            "player_handle": "Wordup",
+            "character_realm": "sunstrider",
+            "character_name": "Derpup",
+            "region": "EU",
+            "guild": "Echoes",
+            "notes": "Alt of Werdup, very firmly an alt.",
+            "special": true
+        },
+        "guardian": {
+            "player_handle": "Pumps",
+            "character_realm": "frostmourne",
+            "character_name": "pumps",
+            "region": "US",
+            "guild": "Honestly"
+        },
+        "restoration": {
+            "player_handle": "Torty",
+            "character_realm": "turalyon",
+            "character_name": "torty",
+            "region": "EU",
+            "guild": "Pure"
+        }
+    },
+    "hunter": {
+        "beast_mastery": {
+            "player_handle": "Azortharíon",
+            "character_realm": "Ragnaros",
+            "character_name": "Azortharíon",
+            "region": "EU",
+            "guild": "Solaris",
+            "notes": "Seems to raid as Marksmanship (highest logs)"
+        },
+        "marksmanship": {
+            "player_handle": "Azortharíon",
+            "character_realm": "Ragnaros",
+            "character_name": "Azortharíon",
+            "region": "EU",
+            "guild": "Solaris"
+        },
+        "survival": {
+            "player_handle": "Azortharíon",
+            "character_realm": "Ragnaros",
+            "character_name": "Azortharíon",
+            "region": "EU",
+            "guild": "Solaris",
+            "notes": "Seems to raid as Marksmanship (highest logs)"
+        }
+    },
+    "mage": {
+        "arcane": {
+            "player_handle": "Dutchmagoz",
+            "character_realm": "ragnaros",
+            "character_name": "dutchmagoz",
+            "region": "EU",
+            "guild": "Angered",
+            "notes": "Appears to raid as fire"
+        },
+        "fire": {
+            "player_handle": "Dutchmagoz",
+            "character_realm": "ragnaros",
+            "character_name": "dutchmagoz",
+            "region": "EU",
+            "guild": "Angered"
+        },
+        "frost": {
+            "player_handle": "Kuni",
+            "character_realm": "ghostlands",
+            "character_name": "kuni",
+            "region": "US",
+            "guild": "Mortal Desire"
+        }
+    },
+    "monk": {
+        "brewmaster": {
+            "player_handle": "Sinzhu",
+            "character_realm": "kiljaeden",
+            "character_name": "sinzhu",
+            "region": "US",
+            "guild": "We Gucci"
+        },
+        "mistweaver": {
+            "player_handle": "Dhaubbs",
+            "character_realm": "emerald-dream",
+            "character_name": "dhaubbs",
+            "region": "US",
+            "guild": "Nascent",
+            "notes": "Maybe incorrect, the note on Icy Veins says plays in Big Dumb Guild on Illidan.",
+            "special": true
+        },
+        "windwalker": {
+            "player_handle": "Babylonius",
+            "character_realm": "turalyon",
+            "character_name": "babylonius",
+            "region": "US",
+            "guild": "Occasional Excellent"
+        }
+    },
+    "paladin": {
+        "holy": {
+            "player_handle": "Mytholxgy",
+            "character_realm": "stormscale",
+            "character_name": "mytholcgy",
+            "region": "EU",
+            "guild": "Pieces"
+        },
+        "protection": {
+            "player_handle": "Panthea",
+            "character_realm": "tarren-mill",
+            "character_name": "panthea",
+            "region": "EU",
+            "guild": "Catalyst",
+            "notes": "Main appears to be Fiskefriend who is 10/10M and 1486 IO",
+            "special": true
+        },
+        "retribution": {
+            "player_handle": "Urthearso",
+            "character_realm": "eredar",
+            "character_name": "urthearso",
+            "region": "EU",
+            "guild": "untitled spreadsheet"
+        }
+    },
+    "priest": {
+        "discipline": {
+            "player_handle": "Clandon",
+            "character_realm": "tichondrius",
+            "character_name": "clanndon",
+            "region": "US",
+            "guild": "Incarnate"
+        },
+        "holy": {
+            "player_handle": "Niphyr",
+            "character_realm": "frostmourne",
+            "character_name": "niphyr",
+            "region": "US",
+            "guild": "Vitare"
+        },
+        "shadow": {
+            "player_handle": "Publik",
+            "character_realm": "arthas",
+            "character_name": "publik",
+            "region": "US",
+            "guild": "The Exiled"
+        }
+    },
+    "rogue": {
+        "assassination": {
+            "player_handle": "Seliathan",
+            "character_realm": "twisting-nether",
+            "character_name": "seliathan",
+            "region": "EU",
+            "guild": "Familiar With Drama",
+            "notes": "Raids as both assassination and outlaw."
+        },
+        "outlaw": {
+            "player_handle": "Seliathan",
+            "character_realm": "twisting-nether",
+            "character_name": "seliathan",
+            "region": "EU",
+            "guild": "Familiar With Drama",
+            "notes": "Raids as both assassination and outlaw."
+        },
+        "subtlety": {
+            "player_handle": "Ashine",
+            "character_realm": "kazzak",
+            "character_name": "Ashine",
+            "region": "EU",
+            "guild": "FatSharkYes"
+        }
+    },
+    "shaman": {
+        "elemental": {
+            "player_handle": "Stormy",
+            "character_realm": "draenor",
+            "character_name": "angstormy",
+            "region": "EU",
+            "guild": "BadRNG"
+        },
+        "enhancement": {
+            "player_handle": "Wordup",
+            "character_realm": "sunstrider",
+            "character_name": "werdup",
+            "region": "EU",
+            "guild": "Echoes"
+        },
+        "restoration": {
+            "player_handle": "Seksi",
+            "character_realm": "kazzak",
+            "character_name": "Seksixeny",
+            "region": "EU",
+            "guild": "Arctic Avengers"
+        }
+    },
+    "warlock": {
+        "affliction": {
+            "player_handle": "Ackermann",
+            "character_realm": "nemesis",
+            "character_name": "ackermann",
+            "region": "EU",
+            "guild": "Unreal",
+            "notes": "Extremely low progression (5/10H), may indicate that is an alt."
+        },
+        "demonology": {
+            "player_handle": "Ackermann",
+            "character_realm": "nemesis",
+            "character_name": "ackermann",
+            "region": "EU",
+            "guild": "Unreal",
+            "notes": "Extremely low progression (5/10H), may indicate that is an alt."
+        },
+        "destruction": {
+            "player_handle": "Ackermann",
+            "character_realm": "nemesis",
+            "character_name": "ackermann",
+            "region": "EU",
+            "guild": "Unreal",
+            "notes": "Extremely low progression (5/10H), may indicate that is an alt."
+        }
+    },
+    "warrior": {
+        "arms": {
+            "player_handle": "Archimtiros",
+            "character_realm": "sargeras",
+            "character_name": "archimtiros",
+            "region": "US",
+            "guild": "Business Class"
+        },
+        "fury": {
+            "player_handle": "Archimtiros",
+            "character_realm": "sargeras",
+            "character_name": "archimtiros",
+            "region": "US",
+            "guild": "Business Class"
+        },
+        "protection": {
+            "player_handle": "Mwahi",
+            "character_realm": "argent-dawn",
+            "character_name": "admisw",
+            "region": "EU",
+            "guild": "The Lethal Party",
+            "notes": "Extremely low progression (3/10N), may indicate that this is an alt."
+        }
+    }
+}
