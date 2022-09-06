@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from typing import Dict, Tuple
+from typing import Any, Dict, Tuple
 
 from PIL import ImageColor
 
@@ -17,6 +17,16 @@ class ClassSpecIndex:
     global_idx: int
     num_global: int
 
+
+def determine_number_players(data: Dict[str, Any]) -> int:
+
+    count = 0
+    for class_, class_data in data.items():
+        for spec, spec_data in class_data.items():
+            if spec_data["character_name"] == "None":
+                continue
+            count += 1
+    return count
 
 def build_class_spec_inds() -> Dict[str, Dict[str, ClassSpecIndex]]:
 

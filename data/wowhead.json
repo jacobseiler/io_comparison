@@ -277,7 +277,7 @@
             "region": "US",
             "guild": "Intern Made This Boss",
             "notes": "Same of Brewmaster tank which seems to be his main",
-            "special": True
+            "special": true
         }
     }
 }

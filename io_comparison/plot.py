@@ -10,6 +10,7 @@ import matplotlib.patheffects as path_effects
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import numpy as np
+from rich import print
 from io_comparison.generic import FloatRangeDict
 from io_comparison.player_profile import Profile
 from io_comparison.plot_helper import PlotHelper, generate_plot_helper
@@ -142,9 +143,9 @@ class Plotter:
         )
         ax.add_patch(rect)
 
-        if profile.score < 700:
-            y_text = icon_coords[1] / 8
-            text_size = 10
+        if profile.score < 400:
+            y_text = 1
+            text_size = 8
         else:
             y_text = icon_coords[1] / 4
             text_size = 14
@@ -215,6 +216,8 @@ class Plotter:
 
     def plot_profiles(self, profiles: List[Profile], output_fname: str, background_image) -> None:
 
+        print(f"Plotting scores for [bold magenta]{len(profiles)}[/] characters.")
+
         fig = plt.figure(figsize=self._plot_helper.figsize)
         ax = fig.add_subplot(111)
 
@@ -239,5 +242,5 @@ class Plotter:
 
         output_file = f"{self._plot_helper.output_path}/{output_fname}.{self._plot_helper.output_format}"
         fig.savefig(output_file, pad_inches=0)
-        print(f"Saved file to {output_file}")
+        print(f"Saved file to [bold magenta]{output_file}[/]")
         plt.close()

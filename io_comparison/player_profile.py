@@ -9,6 +9,7 @@ import requests
 from tqdm import tqdm
 
 from rich import print
+from io_comparison.utils import determine_number_players
 
 _RAID = "castle-nathria"  # FIXME: Should be a passable argument somewhere. Should be a list of raids.
 
@@ -45,7 +46,7 @@ class Profile:
         else:
             extra = ""
 
-        string = f"{self.character_name.title()} - {self.character_realm.title()}{extra}"
+        string = f"{self.player_handle.title()} ({self.character_name.title()}) - {self.character_realm.title()}{extra}"
         return string
 
 
@@ -67,12 +68,19 @@ class ProfileHandler:
 
         profiles: List[Profile] = []
 
-        for class_, class_data in tqdm(data.items()):
+        number_characters = determine_number_players(data)
+        print(f"Generating profiles for [bold magenta]{number_characters}[/] characters.")
+        pbar = tqdm(total=number_characters)
+
+        for class_, class_data in data.items():
             for spec, spec_data in class_data.items():
                 if spec_data["character_name"] == "None":
                     continue
                 io_results = self._fetch_io_results(**spec_data)
                 profiles.append(self._format_io_results(io_results, class_, spec, spec_data))
+
+                pbar.update(1)
+        pbar.close()
         return profiles
 
     def _format_io_results(
